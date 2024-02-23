@@ -1,2 +1,2 @@
 # UI-UX
-Repository of Kabaddi design
+Repository of Kabaddi Fantasy League user interface design
